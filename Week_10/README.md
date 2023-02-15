@@ -4,11 +4,6 @@
    * FCPS Unit2 Lab04-09
       * 影片：https://youtu.be/yUaPivg5yu0
 
-## 【第10週：Lab06~Lab09 線上錄影】
-  * 
-      * 影片：https://youtu.be/p_yqxb4iDI0
-      * 影片：https://youtu.be/HtktLVqASTQ
-
 ## 解答
   * Lab 解答影片
       * Unit2 Lab07 Ans : https://youtu.be/wUNko-Td9o0
