@@ -17,6 +17,6 @@
  
 ## 解答
   * Lab 解答影片
-      * Unit1 Lab05 Ans：https://youtu.be/TnicxohFT5o
-      * Unit1 Lab06 Ans：https://youtu.be/9_czB2AxUv4
-      * Unit1 Lab07 Ans：https://youtu.be/8qNiUXy1GBE
+      * Unit1 Lab05 Ans：https://www.youtube.com/watch?v=kY5Gu4eCsQk
+      * Unit1 Lab06 Ans：https://www.youtube.com/watch?v=ULHIGtv_-cw
+      * Unit1 Lab07 Ans：https://www.youtube.com/watch?v=8qNiUXy1GBE
