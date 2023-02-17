@@ -3,7 +3,8 @@
 可至下方連結參考ppt、影片和jar檔。
 ## 星際大戰
    * 星際大戰_1
-      * 連結：https://drive.google.com/drive/folders/12QpUm9g8g50sLVj9bb8OIN8lz0VY-oug?usp=sharing
+      * 影片連結：https://youtu.be/5HkxPRDPE_k
+      * 相關檔案：https://drive.google.com/drive/folders/12QpUm9g8g50sLVj9bb8OIN8lz0VY-oug?usp=sharing
    * 星際大戰_2
       * 連結：https://drive.google.com/drive/folders/1wVY10V_Ro2ZOJNXseuE0my2wS--yZnWc?usp=sharing
 ## 俄羅斯方塊
