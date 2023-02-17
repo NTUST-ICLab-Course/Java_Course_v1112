@@ -1,4 +1,4 @@
-# Final_project_demo
+# Final Project Demo
 
 可至下方連結參考ppt、影片和jar檔。
 ## 星際大戰
