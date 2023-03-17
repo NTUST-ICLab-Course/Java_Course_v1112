@@ -19,6 +19,13 @@ Object[] maps= {"tasks1","tasks2","tasks3"};  #用陣列存取地圖
 String filename = (String) JOptionPane.showInputDialog(null,"What robot world?","Lab06",JOptionPane.ERROR_MESSAGE,null,maps,"tesks1");  
 
 
+## MapBuilder & EclipseDebug
+ * PPT
+    * 連結：https://docs.google.com/presentation/d/1q-iovltYgUzuONJYg3ldaP135Y4xD-IR/edit?usp=sharing&ouid=102297434003942768894&rtpof=true&sd=true
+ * MapBuilder
+    * 影片：https://youtu.be/5L5TknNHq2c
+ * EclipseDebug
+    * 影片：https://youtu.be/nBfycTLG814
 
  
 ## 解答
