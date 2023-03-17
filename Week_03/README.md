@@ -15,9 +15,10 @@
       * 影片：https://youtu.be/nBfycTLG814
       
 ## 下拉式選單
-Object[] maps= {"tasks1","tasks2","tasks3"};<br>  
-ImageIcon icon = new ImageIcon("src/image/smile.jpg");<br> 
-String filename = (String) JOptionPane.showInputDialog(null,"What robot world?","Lab06",JOptionPane.ERROR_MESSAGE,icon,maps,"tesks1");	
+Object[] maps= {"tasks1","tasks2","tasks3"};  #用陣列存取地圖<br>
+ImageIcon icon = new ImageIcon("src/image/smile.jpg");  #圖片存取濾鏡<br> 
+String filename = (String) JOptionPane.showInputDialog(null,"What robot world?","Lab06",JOptionPane.ERROR_MESSAGE,icon,maps,"tesks1");  
+
 
 
  
