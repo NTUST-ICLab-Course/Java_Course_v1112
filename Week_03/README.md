@@ -15,8 +15,8 @@
       * 影片：https://youtu.be/nBfycTLG814
       
 ## 下拉式選單
-Object[] maps= {"tasks1","tasks2","tasks3"};  #用陣列存取地圖  
-String filename = (String) JOptionPane.showInputDialog(null,"What robot world?","Lab06",JOptionPane.ERROR_MESSAGE,null,maps,"tesks1");  
+Object[] maps= {"map1","map2","map3"};  #用陣列存取地圖  
+String filename = (String) JOptionPane.showInputDialog(null,"What robot world?","Lab00",JOptionPane.ERROR_MESSAGE,null,maps,"maps[0]");  
 
 
 ## MapBuilder & EclipseDebug
