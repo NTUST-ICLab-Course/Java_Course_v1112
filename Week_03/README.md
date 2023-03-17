@@ -15,8 +15,8 @@
       * 影片：https://youtu.be/nBfycTLG814
       
 ## 下拉式選單
-Object[] maps= {"tasks1","tasks2","tasks3"};
-ImageIcon icon = new ImageIcon("src/image/smile.jpg");
+Object[] maps= {"tasks1","tasks2","tasks3"};<br>  
+ImageIcon icon = new ImageIcon("src/image/smile.jpg");<br> 
 String filename = (String) JOptionPane.showInputDialog(null,"What robot world?","Lab06",JOptionPane.ERROR_MESSAGE,icon,maps,"tesks1");	
 
 
