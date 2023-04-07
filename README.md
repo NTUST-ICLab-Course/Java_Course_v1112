@@ -17,7 +17,7 @@
 | 5  | 3/21     | 3/24      |§4 Abstract Classes and Interfaces   | 11,12,14,15,16        |Lab11\~12; Lab14~16 <br> EclipseDebug     |
 | 6  | 3/28     | 3/31      |§5 Return, break, and continue <br> § Appendix: Array and Recursive   | 17,18,19 <br> Appendix         |Lab17~19 <br> Appendix     |
 | 7  | 4/4<br>(放假) | 4/7 |**Unit2** <br>  §1 Graphics           | **Unit2/** <br>00,01,02,03  |Unit2 Lab00~03     |
-| 8  | 4/11      | 4/14       |**期中考**                        | **期末考**      |                   |
+| 8  | 4/11      | 4/14       |**期中考**                        | **期中考**      |                   |
 | 9  | 4/18     | 4/21      |§2 Static vs Instance, Class vs Object | 04,05,06                  |Unit2 Lab04~09     |
 | 10 | 4/25     | 4/28      |§3 Animation                           | 07,08,09                  |                   |
 | 11 | 5/2     | 5/5      |§3 Animation (Cont’d)                  | 10,11,12,13               |Unit2 Lab10 <br> Unit2 Lab11~13|
